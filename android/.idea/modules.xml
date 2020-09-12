@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flyingwolf.iml" filepath="$PROJECT_DIR$/.idea/modules/Flyingwolf.iml" group="Flyingwolf" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Flyingwolf/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1219416367/react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1219416367/react-native-community_async-storage.iml" group="Flyingwolf/react-native-community_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1988931564/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1988931564/react-native-community_masked-view.iml" group="Flyingwolf/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/904760208/react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/.idea/modules/904760208/react-native-community_netinfo.iml" group="Flyingwolf/react-native-community_netinfo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1514792555/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1514792555/react-native-gesture-handler.iml" group="Flyingwolf/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1080367916/react-native-localization.iml" filepath="$PROJECT_DIR$/.idea/modules/-1080367916/react-native-localization.iml" group="Flyingwolf/react-native-localization" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/373100564/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/373100564/react-native-safe-area-context.iml" group="Flyingwolf/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-269108948/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-269108948/react-native-screens.iml" group="Flyingwolf/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-45301429/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-45301429/react-native-vector-icons.iml" group="Flyingwolf/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>

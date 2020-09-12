@@ -1,0 +1,27 @@
+export const PrimaryColor = {
+  BLACK: '#000000',
+  WHITE: '#FFFFFFFF',
+  TEXT_COLOR: '#001F30',
+  PLACEHOLDER_TEXT_COLOR: '#666666',
+  TEXT_BACKGROUND_COLOR: '#FFFFFF',
+  LIGHT_GRAY: '#D3D3D3',
+  BUTTON_COLOR: '#279CF7',
+  PLAYED: '#edb228',
+  WON: '#9f43e6',
+  WINNING_PERCENTAGE: '#e67743',
+};
+
+export const SecondaryColor = {
+  TEXT_FIELD_BORDER_COLOR: '#A8A8A8',
+  DISABLE_TEXT_FIELD_COLOR: '#E9ECEF',
+};
+
+export const AlertColor = {
+  ERROR_COLOR_DARK: '#BF1111',
+  ERROR_COLOR_LIGHT: '#FFE6E6',
+};
+
+export const SplashScreenColor = {
+  ERROR_COLOR_DARK: '#BF1111',
+  ERROR_COLOR_LIGHT: '#FFE6E6',
+};
