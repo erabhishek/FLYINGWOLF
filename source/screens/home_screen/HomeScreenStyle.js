@@ -1,16 +1,16 @@
-import {StyleSheet} from 'react-native';
-import normalize from 'react-native-normalize';
+import { StyleSheet } from "react-native";
+import normalize from "react-native-normalize";
 
-import {PrimaryColor} from '../../constants/ColorConstant';
+import { PrimaryColor } from "../../constants/ColorConstant";
 
 export const sectionListStyles = StyleSheet.create({
   container: {
     backgroundColor: PrimaryColor.LIGHT_GRAY,
-    width: '100%',
+    width: "100%",
     height: normalize(40),
-    justifyContent: 'center',
+    justifyContent: "center",
   },
-  headerTitle: {fontSize: normalize(20)},
+  headerTitle: { fontSize: normalize(20) },
 });
 
 export const tournamentListItemStyles = StyleSheet.create({
@@ -29,30 +29,30 @@ export const tournamentListItemStyles = StyleSheet.create({
   },
   coverImageStyle: {
     height: normalize(70),
-    resizeMode: 'stretch',
-    borderTopStartRadius: normalize(19),
-    borderTopEndRadius: normalize(19),
+    resizeMode: "stretch",
+    borderTopLeftRadius: normalize(19),
+    borderTopRightRadius: normalize(19),
   },
   detailContainer: {
     borderRadius: normalize(19),
     paddingHorizontal: normalize(10),
     paddingVertical: normalize(5),
     flex: 1,
-    alignContent: 'space-between',
+    alignContent: "space-between",
   },
   name: {
     width: normalize(300),
-    fontWeight: 'bold',
+    fontWeight: "bold",
     fontSize: normalize(17),
   },
-  gameName: {marginTop: normalize(2), fontSize: normalize(14)},
+  gameName: { marginTop: normalize(2), fontSize: normalize(14) },
 });
 
 export const styles = StyleSheet.create({
   logoImage: {
     width: 30,
     height: 30,
-    resizeMode: 'center',
+    resizeMode: "center",
   },
   container: {
     flex: 1,
@@ -60,23 +60,23 @@ export const styles = StyleSheet.create({
   },
   rootContainer: {
     flex: 1,
-    justifyContent: 'center',
-    backgroundColor: 'green',
+    justifyContent: "center",
+    backgroundColor: "green",
   },
 });
 
 export const tournamentHeaderStyle = StyleSheet.create({
   ratingSummaryContainer: {
-    flexDirection: 'column',
+    flexDirection: "column",
     marginLeft: normalize(20),
-    justifyContent: 'space-around',
+    justifyContent: "space-around",
   },
   ratingViewStyle: {
     borderRadius: normalize(20),
     height: normalize(35),
     width: normalize(200),
-    alignItems: 'center',
-    flexDirection: 'row',
+    alignItems: "center",
+    flexDirection: "row",
     borderColor: PrimaryColor.BUTTON_COLOR,
     borderWidth: 1,
     paddingLeft: normalize(20),
@@ -87,40 +87,40 @@ export const tournamentHeaderStyle = StyleSheet.create({
     marginRight: normalize(10),
   },
   playedSummaryContain: {
-    width: '90%',
+    width: "90%",
     height: normalize(70),
     margin: normalize(10),
     borderRadius: normalize(20),
     flex: 3,
-    flexDirection: 'row',
+    flexDirection: "row",
   },
   playerContainFirst: {
     flex: 1,
     backgroundColor: PrimaryColor.PLAYED,
     borderBottomStartRadius: normalize(20),
     borderTopStartRadius: normalize(20),
-    flexDirection: 'column',
-    justifyContent: 'center',
-    alignItems: 'center',
+    flexDirection: "column",
+    justifyContent: "center",
+    alignItems: "center",
   },
   playerContainLast: {
     flex: 1,
     backgroundColor: PrimaryColor.WINNING_PERCENTAGE,
     borderBottomEndRadius: normalize(20),
     borderTopEndRadius: normalize(20),
-    flexDirection: 'column',
-    justifyContent: 'center',
-    alignItems: 'center',
+    flexDirection: "column",
+    justifyContent: "center",
+    alignItems: "center",
   },
   playerContainMid: {
     flex: 1,
     backgroundColor: PrimaryColor.WON,
-    flexDirection: 'column',
-    justifyContent: 'center',
-    alignItems: 'center',
+    flexDirection: "column",
+    justifyContent: "center",
+    alignItems: "center",
   },
   textStyle: {
-    textAlign: 'center',
+    textAlign: "center",
     color: PrimaryColor.WHITE,
     fontSize: normalize(13),
   },

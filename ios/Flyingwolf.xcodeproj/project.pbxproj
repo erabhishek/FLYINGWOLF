@@ -161,7 +161,6 @@
 				28C2F90A83044743924F8707 /* Pods-Flyingwolf-tvOSTests.debug.xcconfig */,
 				1AD6D677AE9A01D8AFBEFC2F /* Pods-Flyingwolf-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};

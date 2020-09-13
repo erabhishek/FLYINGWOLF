@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/abhisheksharma-userapp/Desktop/assignment/Flyingwolf/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "outputFile": "/Users/abhisheksharma-userapp/Desktop/assignment/Assignement/FLYINGWOLF/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "/Users/abhisheksharma-userapp/.gradle/caches/transforms-2/files-2.1/3bd3f77011395dc3a3454686bff489ac/core-1.5.0-alpha02/res/values-b+sr+Latn/values-b+sr+Latn.xml",
